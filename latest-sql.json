@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.2.8.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.8.0.exe",
-    "sha256":  "d030a24d798a0da73921e8b90fb125beace091eec7438fb0f0f08b37cd43063a",
-    "size":  2537914,
+    "version":  "2.2.9.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.9.0.exe",
+    "sha256":  "b8d1d203cd384b313daebdcfc3092c9a703d920a4c4150a9f5c075f58637f70c",
+    "size":  2537920,
     "date":  "2026-10-07",
-    "notes":  "المخزون: عمود إجمالي القطع محوّلاً من الكراتين"
+    "notes":  "الجرد: عدد القطع بجانب المتوقع والفرق"
 }
