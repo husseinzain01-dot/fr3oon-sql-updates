@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.3.3.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.3.0.exe",
-    "sha256":  "d94aaf55795507b844c8b150c5af269f95b60e08f123de8c8a3ea7fc3fd67f22",
-    "size":  2541383,
+    "version":  "2.3.4.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.4.0.exe",
+    "sha256":  "cccf8af5770666c411ab17cf361dcf1052849f03acf0e1bc66257397df248217",
+    "size":  2541520,
     "date":  "2026-10-07",
-    "notes":  "إصلاح الطباعة: الوصل يطبع بدون نافذة منبثقة"
+    "notes":  "طباعة مباشرة على الطابعة الافتراضية بدون نافذة"
 }
