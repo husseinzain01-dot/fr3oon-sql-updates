@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.2.7.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.7.0.exe",
-    "sha256":  "58669e9cdb38c39a68a0b16f9a19e189f5520ada2da99e046c03ab4207134072",
-    "size":  2537865,
+    "version":  "2.2.8.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.8.0.exe",
+    "sha256":  "d030a24d798a0da73921e8b90fb125beace091eec7438fb0f0f08b37cd43063a",
+    "size":  2537914,
     "date":  "2026-10-07",
-    "notes":  "تنسيق وصل البيع: مقاسات وخطوط موحدة وخطوط منقطة بين البيان والمبلغ"
+    "notes":  "المخزون: عمود إجمالي القطع محوّلاً من الكراتين"
 }
