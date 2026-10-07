@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.2.9.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.9.0.exe",
-    "sha256":  "b8d1d203cd384b313daebdcfc3092c9a703d920a4c4150a9f5c075f58637f70c",
-    "size":  2537920,
+    "version":  "2.3.0.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.0.0.exe",
+    "sha256":  "e96cb533e578403dd854ccfd401b097e684015b815126218c32df47507311b13",
+    "size":  2540964,
     "date":  "2026-10-07",
-    "notes":  "الجرد: عدد القطع بجانب المتوقع والفرق"
+    "notes":  "قائمة الأسعار: تعديل أسعار الكارتون والقطعة بسرعة"
 }
