@@ -1,0 +1,10 @@
+{
+    "product":  "Fr3oon",
+    "edition":  "sql",
+    "version":  "2.2.5.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.5.0.exe",
+    "sha256":  "ab9caabb79a2c2607ea0148ac66441e6207d9a0c25c9675b726bc1a5d30dc5b5",
+    "size":  2537640,
+    "date":  "2026-10-07",
+    "notes":  "تحديث تجريبي: اتصال الأجهزة الأخرى بدون إعدادات، بيع جملة وشراء سريع، شريط سحب الفاتورة"
+}
