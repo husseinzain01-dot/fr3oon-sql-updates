@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.3.0.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.0.0.exe",
-    "sha256":  "e96cb533e578403dd854ccfd401b097e684015b815126218c32df47507311b13",
-    "size":  2540964,
+    "version":  "2.3.1.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.1.0.exe",
+    "sha256":  "700ca7d285226ffc344894b5a9c6a011639703e1f3a4c2013b8cdaac1f6de0a0",
+    "size":  2541088,
     "date":  "2026-10-07",
-    "notes":  "قائمة الأسعار: تعديل أسعار الكارتون والقطعة بسرعة"
+    "notes":  "البيع السريع: مفتاح الوحدة (قطعة / كارتون)"
 }
