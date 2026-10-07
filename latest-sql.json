@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.2.6.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.6.0.exe",
-    "sha256":  "92fc712834d9eed894d9f3061beddde141b0b68cb3b75ac3cc3a2328ae5e2130",
-    "size":  2537841,
+    "version":  "2.2.7.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.2.7.0.exe",
+    "sha256":  "58669e9cdb38c39a68a0b16f9a19e189f5520ada2da99e046c03ab4207134072",
+    "size":  2537865,
     "date":  "2026-10-07",
-    "notes":  "الرصيد بالقطع مع الكارتونات، عامل التحويل واضح ببطاقة الصنف، عرض الوحدة بالسطر"
+    "notes":  "تنسيق وصل البيع: مقاسات وخطوط موحدة وخطوط منقطة بين البيان والمبلغ"
 }
