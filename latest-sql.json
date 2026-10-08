@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.3.4.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.3.4.0.exe",
-    "sha256":  "cccf8af5770666c411ab17cf361dcf1052849f03acf0e1bc66257397df248217",
-    "size":  2541520,
-    "date":  "2026-10-07",
-    "notes":  "طباعة مباشرة على الطابعة الافتراضية بدون نافذة"
+    "version":  "2.4.0.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.4.0.0.exe",
+    "sha256":  "2dce402c2d37f5eec147d4534e485a449a7a938313a4b4b6d72912583d19c5b5",
+    "size":  2544251,
+    "date":  "2026-10-08",
+    "notes":  "ربط الحسابات يدوياً، حركة الصنف، بحث لا يختفي، التسديد والمتبقي، الطباعة كل الصفحات، تصحيح كلفة الأرباح، تحكم المدير من الجهاز الفرعي"
 }
