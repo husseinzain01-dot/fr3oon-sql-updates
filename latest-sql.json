@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.4.1.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.4.1.0.exe",
-    "sha256":  "0c554214d757f597178baf90379f7e595676d1dc73ada3a10f6d6e7d9122e23d",
-    "size":  2544993,
+    "version":  "2.4.2.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.4.2.0.exe",
+    "sha256":  "2ba835d5ff36507aef02aae0d2259b72058f9bc0372f14f8e7ada02311a27c95",
+    "size":  2547648,
     "date":  "2026-10-08",
-    "notes":  "الأجهزة الفرعية تتحدث تلقائياً لنسخة الرئيسي"
+    "notes":  "إصلاح عاجل: خطأ FrPosResize بالبيع السريع، والطباعة وقائمة الأسعار"
 }
