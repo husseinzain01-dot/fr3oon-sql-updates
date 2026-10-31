@@ -1,10 +1,10 @@
 {
     "product":  "Fr3oon",
     "edition":  "sql",
-    "version":  "2.5.0.0",
-    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.5.0.0.exe",
-    "sha256":  "68f6486aaf00bec491c538ef4a8867dadbf50bbc59e6da58267fae664a240701",
-    "size":  2553034,
-    "date":  "2026-10-26",
-    "notes":  "الربط مع برنامج الإدارة (إدارة المبيعات): كل فاتورة بيع تنحفظ هناك بنفس اللحظة، والمواد والأسعار والزبائن تنجلب منه. الربط مطفي لحد ما يتفعّل من الإعدادات ← الربط مع برنامج الإدارة."
+    "version":  "2.5.1.0",
+    "url":  "https://raw.githubusercontent.com/husseinzain01-dot/fr3oon-sql-updates/main/releases/Fr3oon-SQL-Setup-2.5.1.0.exe",
+    "sha256":  "a166fe92fdb392574a931dd2942b81b45604440f33a3b654c5c9490be663a879",
+    "size":  2553103,
+    "date":  "2026-10-31",
+    "notes":  "سعر الكارتون من برنامج المبيعات عبر الربط"
 }
